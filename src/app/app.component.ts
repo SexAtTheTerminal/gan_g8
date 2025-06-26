@@ -14,6 +14,8 @@ import {
 } from '@ng-icons/heroicons/solid';
 import {
   heroAcademicCap,
+  heroUserGroup,
+  heroUserCircle,
   heroArrowRight,
   heroCubeTransparent,
   heroPuzzlePiece,
@@ -65,6 +67,8 @@ import { CommonModule } from '@angular/common';
       heroArrowPathRoundedSquareSolid,
       heroCheckBadgeSolid,
       heroArrowDownCircleSolid,
+      heroUserGroup,
+      heroUserCircle,
     }),
   ],
   templateUrl: './app.component.html',
