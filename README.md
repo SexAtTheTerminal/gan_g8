@@ -1,59 +1,28 @@
-# GanG8
+# 🌐 GAN Landing Page
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.10.
+**GAN Landing Page** es una aplicación web desarrollada con **Angular** y **Tailwind CSS**, diseñada como un recurso introductorio y visual sobre las **Redes Generativas Antagónicas (GAN)**.  
+Su objetivo es explicar de manera clara qué son las GAN, cómo funcionan y brindar un acceso directo a un **Codelab interactivo** con un modelo funcional.
 
-## Development server
+---
 
-To start a local development server, run:
+## 🚀 Tecnologías utilizadas
 
-```bash
-ng serve
-```
+- **Angular** – Framework principal para el desarrollo frontend.  
+- **Tailwind CSS** – Framework de estilos utilitario para un diseño moderno y responsivo.  
+- **TypeScript** – Lenguaje base del proyecto para un desarrollo tipado y mantenible.  
+- **Vercel** – Plataforma utilizada para el despliegue y hosting de la aplicación.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+---
 
-## Code scaffolding
+## 🧠 Características principales
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- Interfaz limpia y moderna con diseño responsivo.  
+- Sección informativa sobre las **GAN (Generative Adversarial Networks)**.  
+- Explicación conceptual y visual del funcionamiento del generador y el discriminador.  
+- Enlace final a un **Codelab con un modelo GAN funcional**, para explorar su comportamiento en tiempo real.  
+- Desarrollado bajo buenas prácticas de organización de componentes y estilos.
 
-```bash
-ng generate component component-name
-```
+---
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+## 📂 Estructura general del proyecto
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
