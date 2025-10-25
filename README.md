@@ -37,5 +37,7 @@ Para explorar el modelo de Generative Adversarial Network implementado:
 👨‍💻 Autor
 
 Desarrollado por Gabriel Isaac Cuba García
+
+
 Full Stack Developer | Angular & Spring Boot
 
