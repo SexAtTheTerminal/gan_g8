@@ -24,5 +24,18 @@ Su objetivo es explicar de manera clara qué son las GAN, cómo funcionan y brin
 
 ---
 
-## 📂 Estructura general del proyecto
+🌍 Despliegue
+
+El proyecto está desplegado en Vercel:
+🔗 https://gan-g8.vercel.app/
+
+🧩 Enlace al Codelab
+
+Para explorar el modelo de Generative Adversarial Network implementado:
+👉 [Ir al Codelab](https://colab.research.google.com/drive/1Vpk2PcLqqs-RvZMGoKdAo8FHGVykKCHq?usp=sharing)
+
+👨‍💻 Autor
+
+Desarrollado por Gabriel Isaac Cuba García
+Full Stack Developer | Angular & Spring Boot
 
